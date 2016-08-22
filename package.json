@@ -1,0 +1,24 @@
+{
+  "name": "dugong",
+  "version": "0.0.1",
+  "description": "",
+  "author": "eng@welkinhealth.com",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "6.3.6",
+    "babel-brunch": "6.0.4",
+    "bless": "3.0.3",
+    "bower": "1.7.9",
+    "brunch": "github:brunch/brunch",
+    "clean-css-brunch": "2.0.0",
+    "css-brunch": "2.6.1",
+    "jasmine-reporters": "2.1.1",
+    "javascript-brunch": "2.0.0",
+    "lodash": "^3.10.1",
+    "moment-timezone": "0.4.1",
+    "postcss-brunch": "0.5.0",
+    "protractor": "3.3.0",
+    "sass-brunch": "2.6.3",
+    "uglify-js-brunch": "2.0.1"
+  }
+}
